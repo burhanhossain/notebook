@@ -1,0 +1,649 @@
+@media (min-width: 279px) and (max-width: 320px){
+	/*code start*/
+    .navbar-brand {
+       width: 10px;
+    }  
+
+.banner {
+	padding: 40px 0px;
+}
+.banner .banner-inner h2{
+	font-size: 12px;
+	line-height: 22px;
+}
+.banner .banner-inner p{
+    font-size: 8px;
+   line-height: 16px;
+
+}
+.banner .banner-inner .btn-primary{
+    padding: 5px 20px;
+    font-size: 7px;
+    margin: 0px 0px 7px;
+    
+    }
+    .second-section{
+	padding: 40px 0px;
+}
+
+.second-section .second-inner h1{
+    font-size: 16px;
+   margin: 0px 0px 7px;
+   line-height: 26px;
+}
+.second-section .second-inner p{
+   font-size: 7px;
+   margin: 0px 0px 25px;
+   line-height: 12px;
+}
+.pen{
+  width: 20px;
+  height: 20px;
+}
+.clsImg {
+    max-width: 7%;
+    max-height: 7%;
+    left: 50%;
+}
+.third-section{
+	
+	padding: 9em 0em 12em;
+	
+}
+.third-inner{
+	
+	margin: -7em 0em -7em;
+}
+.third-inner h1{
+	 font-size: 16px;
+   
+   margin: 0px 0px 5px;
+   
+}
+.third-inner p{
+	font-size: 7px;
+  
+   margin: 0px 0px 2em;
+   line-height: 12px;
+}
+.fourth-section{
+	
+	padding: 40px 0px;
+}
+
+.fourth-section .title h1{
+	 font-size: 9px;
+    margin: 0px 0px 5px;
+}
+.fourth-section .title p{
+	font-size: 7px;
+  
+   margin: 0px 0px 15px;
+   line-height: 12px;
+}
+.price-box {
+	margin-bottom: 15px;
+}
+.price-box .price-head{
+     
+      padding: 15px 0px;
+     
+}
+.price-box .price-head h1{
+	font-size: 15px;
+	
+}
+.price-box .price{
+	
+	padding: 20px 0px;
+	
+}
+.price-box .price h2{
+  font-size: 12px;
+ 
+  margin: 0px 0px 22px;
+  
+}
+.price-box .price h3{
+  font-size: 12px;
+  
+  }
+  
+  .price-box .btn-primary{
+  	
+  	padding: 10px 0px;
+   
+    margin: 0px 0px 0px;
+    font-size: 9px;
+  
+    
+  }
+  
+ .price-box .second-color{
+      
+      padding: 5px 0px;
+      
+}
+.price-box .second-color h1{
+	font-size: 15px;
+	
+}
+.price-box .second-color p{
+	font-size: 7px;
+  
+  
+}
+.last-para{
+	
+	padding: 20px 0px;
+	
+}
+.last-para p{
+	font-size: 7px;
+   margin: 0px 0px 15px;
+   line-height: 12px;
+}
+.fifth-section{
+	
+	padding: 30px 0px;
+	
+}
+
+.contact h1{
+	font-size: 15px;
+	
+}
+.contact p{
+	font-size: 7px;
+   margin: 0px 0px 15px;
+   line-height: 12px;
+}
+
+ .main-form .form-control{
+	font-size: 8px;
+	padding: 7px;
+	
+}
+
+.social-icons ul li a {
+	
+	width: 10px;
+	height: 10px;
+	line-height: 10px;
+	font-size: 7px;
+	margin: 0px 5px 0px 0px;
+
+}
+
+.footer-section{
+	position: relative;
+	padding: 20px 0px;
+	
+}
+.footer-section .footer-copyright {
+	 position: absolute;
+	 top: 20px;
+    font-size: 8px;
+    line-height: 18px;
+    
+}
+.footer-feature ul{
+	position: absolute;
+	top: 0px;
+	
+}
+ .footer-feature ul li a {
+	font-size: 7px;
+	font-size: 7px;
+	margin: 0px 0px 0px 0px;
+
+}
+
+
+
+	/*code end*/
+
+}
+@media (min-width: 321px) and (max-width: 480px){
+.banner {
+	padding: 55px 0px;
+}
+.banner .banner-inner h2{
+	font-size: 16px;
+	line-height: 20px;
+}
+.banner .banner-inner p{
+    font-size: 9px;
+   line-height: 19px;
+
+}
+.banner .banner-inner .btn-primary{
+    padding: 7px 28px;
+    font-size: 10px;
+    margin: 0px 0px 10px;
+    
+    }
+    .second-section{
+	padding: 55px 0px;
+}
+
+.second-section .second-inner h1{
+    font-size: 22px;
+   margin: 0px 0px 10px;
+   line-height: 32px;
+}
+.second-section .second-inner p{
+   font-size: 10px;
+   margin: 0px 0px 35px;
+   line-height: 20px;
+}
+.pen{
+  width: 28px;
+  height: 28px;
+}
+.clsImg {
+    max-width: 7%;
+    max-height: 7%;
+    left: 50%;
+}
+.third-section{
+	
+	padding: 12em 0em 16em;
+	
+}
+.third-inner{
+	
+	margin: -10em 0em -10em;
+}
+.third-inner h1{
+	 font-size: 20px;
+   
+   margin: 0px 0px 7px;
+   
+}
+.third-inner p{
+	font-size: 10px;
+  
+   margin: 0px 0px 3em;
+   line-height: 20px;
+}
+.fourth-section{
+	
+	padding: 55px 0px;
+}
+
+.fourth-section .title h1{
+	 font-size: 10px;
+    margin: 0px 0px 7px;
+}
+.fourth-section .title p{
+	font-size: 10px;
+  
+   margin: 0px 0px 20px;
+   line-height: 20px;
+}
+.price-box {
+	margin-bottom: 20px;
+}
+.price-box .price-head{
+     
+      padding: 20px 0px;
+     
+}
+.price-box .price-head h1{
+	font-size: 20px;
+	
+}
+.price-box .price{
+	
+	padding: 28px 0px;
+	
+}
+.price-box .price h2{
+  font-size: 16px;
+ 
+  margin: 0px 0px 30px;
+  
+}
+.price-box .price h3{
+  font-size: 16px;
+  
+  }
+  
+  .price-box .btn-primary{
+  	
+  	padding: 14px 0px;
+   
+    margin: 0px 0px 0px;
+    font-size: 12px;
+  
+    
+  }
+  
+ .price-box .second-color{
+      
+      padding: 7px 0px;
+      
+}
+.price-box .second-color h1{
+	font-size: 20px;
+	
+}
+.price-box .second-color p{
+	font-size:10px;
+  
+  
+}
+.last-para{
+	
+	padding: 28px 0px;
+	
+}
+.last-para p{
+	font-size: 10px;
+   margin: 0px 0px 20px;
+   line-height: 20px;
+}
+.fifth-section{
+	
+	padding: 40px 0px;
+	
+}
+
+.contact h1{
+	font-size: 20px;
+	
+}
+.contact p{
+	font-size: 10px;
+   margin: 0px 0px 20px;
+   line-height: 20px;
+}
+
+ .main-form .form-control{
+	font-size: 12px;
+	padding: 10px;
+	
+}
+
+.social-icons ul li a {
+	
+	width: 14px;
+	height: 14px;
+	line-height: 14px;
+	font-size: 10px;
+	margin: 0px 7px 0px 0px;
+
+}
+
+
+.footer-section{
+	position: relative;
+	padding: 30px 0px;
+	
+}
+.footer-section .footer-copyright {
+	 position: absolute;
+	 top: 24px;
+	 left: 8%;
+    font-size: 10px;
+   
+    
+}
+.footer-feature ul{
+	position: absolute;
+	top: 0px;
+	right: 14%;
+	
+}
+
+ .footer-feature ul li a {
+	font-size: 10px;
+	font-size: 10px;
+	margin: 0px 0px 0px 0px;
+
+}
+
+}
+@media (min-width: 481px) and (max-width: 767px){
+	.banner {
+	padding: 65px 0px;
+}
+.banner .banner-inner h2{
+	font-size: 20px;
+	line-height: 30px;
+}
+.banner .banner-inner p{
+    font-size: 14px;
+   line-height: 24px;
+
+}
+.banner .banner-inner .btn-primary{
+    padding: 8px 32px;
+    font-size: 12px;
+    margin: 0px 0px 12px;
+    
+    }
+    .second-section{
+	padding: 65px 0px;
+}
+
+.second-section .second-inner h1{
+    font-size: 24px;
+   margin: 0px 0px 10px;
+   line-height: 34px;
+}
+.second-section .second-inner p{
+   font-size: 12px;
+   margin: 0px 0px 40px;
+   line-height: 22px;
+}
+.pen{
+  width: 34px;
+  height: 34px;
+}
+.clsImg {
+    max-width: 7%;
+    max-height: 7%;
+    left: 50%;
+}
+.third-section{
+	
+	padding: 15em 0em 20em;
+	
+}
+.third-inner{
+	
+	margin: -12em 0em -12em;
+}
+.third-inner h1{
+	 font-size: 26px;
+   
+   margin: 0px 0px 8px;
+   
+}
+.third-inner p{
+	font-size: 12px;
+  
+   margin: 0px 0px 3em;
+   line-height: 22px;
+}
+.fourth-section{
+	
+	padding: 65px 0px;
+}
+
+.fourth-section .title h1{
+	 font-size: 12px;
+    margin: 0px 0px 8px;
+}
+.fourth-section .title p{
+	font-size: 12px;
+  
+   margin: 0px 0px 25px;
+   line-height: 22px;
+}
+.price-box {
+	margin-bottom: 20px;
+}
+.price-box .price-head{
+     
+      padding: 25px 0px;
+     
+}
+.price-box .price-head h1{
+	font-size: 25px;
+	
+}
+.price-box .price{
+	
+	padding: 34px 0px;
+	
+}
+.price-box .price h2{
+  font-size: 20px;
+ 
+  margin: 0px 0px 30px;
+  
+}
+.price-box .price h3{
+  font-size: 20px;
+  
+  }
+  
+  .price-box .btn-primary{
+  	
+  	padding: 16px 0px;
+   
+    margin: 0px 0px 0px;
+    font-size: 15px;
+  
+    
+  }
+  
+ .price-box .second-color{
+      
+      padding: 8px 0px;
+      
+}
+.price-box .second-color h1{
+	font-size: 25px;
+	
+}
+.price-box .second-color p{
+	font-size: 12px;
+  
+  
+}
+.last-para{
+	
+	padding: 34px 0px;
+	
+}
+.last-para p{
+	font-size: 12px;
+   margin: 0px 0px 25px;
+   line-height: 22px;
+}
+.fifth-section{
+	
+	padding: 45px 0px;
+	
+}
+
+.contact h1{
+	font-size: 25px;
+	
+}
+.contact p{
+	font-size: 12px;
+   margin: 0px 0px 25px;
+   line-height: 22px;
+}
+
+ .main-form .form-control{
+	font-size: 14px;
+	padding: 12px;
+	
+}
+
+.social-icons ul li a {
+	
+	width: 16px;
+	height: 16px;
+	line-height: 16px;
+	font-size: 12px;
+	margin: 0px 8px 0px 0px;
+
+}
+.footer-section{
+	position: relative;
+	padding: 34px 0px;
+	
+}
+.footer-section .footer-copyright {
+	 position: absolute;
+	 top: 24px;
+	 left: 8%;
+    font-size: 14px;
+   
+    
+}
+.footer-feature ul{
+	position: absolute;
+	top: 0px;
+	right: 21%;
+	
+}
+
+
+
+ .footer-feature ul li a {
+	font-size: 14px;
+	font-size: 14px;
+	margin: 0px 0px 0px 0px;
+
+}
+
+}
+@media (min-width: 768px) and (max-width: 1024px){
+	.price-box {
+	margin-bottom: 20px;
+}
+.price-box .btn-primary{
+  	
+  	padding: 16px 0px;
+   
+    margin: 0px 0px 0px;
+    font-size: 15px;
+  
+    
+  }
+.footer-section{
+	position: relative;
+	padding: 40px 0px;
+	
+}
+.footer-section .footer-copyright {
+	position: absolute;
+    top: 24px;
+    left: 22%;
+    font-size: 14px;
+    margin-top: 15px;
+   
+    
+}
+.footer-feature ul{
+	margin-top: 5px;
+	position: absolute;
+	top: 0px;
+	right: 28%;
+	
+}
+
+.footer-feature ul li a {
+	font-size: 14px;
+	margin: 0px 5px 0px 0px;
+
+}
+}
